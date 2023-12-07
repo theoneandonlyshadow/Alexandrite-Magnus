@@ -38,7 +38,7 @@
 
 Ale𝙭andrite Magnus is a Computational Intelligence that uses AI as an additional feature. Ale𝙭 is used for solving complex and difficult mathematical inputs from a user. It also uses AI to further expand its coverage for inputs and user-friendly responses.
 
-Note: Ale𝙭andrite is **not** an open source project. It's source code will not be project and this applies to all the MaxTac projects.
+Note: Ale𝙭andrite is **not** an open source project. It's source code will not be public and this applies to all the MaxTac projects.
 
 ## Built With
 
