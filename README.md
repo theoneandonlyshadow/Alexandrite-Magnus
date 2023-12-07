@@ -43,25 +43,39 @@ Note: Ale𝙭andrite is **not** an open source project. It's source code will no
 ## Built With
 
 - Environment:
--- Node.js v21.3.0
--- Visual Studio Code
+
+        Node.js v21.3.0
+        Visual Studio Code
 
 - APIs:
--- Sentiment Analysis
--- Wolfram Alpha
--- Discord.js
--- Instagram Private (in testing)
+  
+        Sentiment Analysis
+
+        Wolfram Alpha
+
+        Discord.js
+
+        Instagram Private (in testing)
 
 - Dependencies:
--- wolfram-alpha-api: ^23.1004.144821-RELEASE / ^0.2.1
--- wolfram-alpha-node": ^0.0.3
--- axios: ^1.6.2
--- discord.js: ^14.14.1
--- express: ^4.18.2
--- mongodb": ^6.1.0
--- multer: ^1.4.5-lts.1
--- nodemon: ^3.0.2
--- sentiment: ^5.0.2
+  
+        wolfram-alpha-api: ^23.1004.144821-RELEASE / ^0.2.1
+
+        wolfram-alpha-node": ^0.0.3
+
+        axios: ^1.6.2
+
+        discord.js: ^14.14.1
+
+        express: ^4.18.2
+
+        mongodb": ^6.1.0
+
+        multer: ^1.4.5-lts.1
+
+        nodemon: ^3.0.2
+
+        sentiment: ^5.0.2
 
 ## Usage
 
@@ -87,9 +101,8 @@ However, dependencies and installation process will be shared in some time to re
 
 ## Authors
 
-* **Madhav Nair** [Madhav Nair](https://github.com/theoneandonlyshadow/)
+* **[Madhav Nair](https://github.com/theoneandonlyshadow/)**
 
 ## Acknowledgements
 
-* [Madhav Nair](https://github.com/theoneandonlyshadow/)
 * [ImgShields](https://shields.io/)
